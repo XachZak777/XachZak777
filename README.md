@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Khachik Zakaryan 👨‍💻
 
 ## 📫 Get in touch
-- LinkedIn - [Khachik Zakaryan](linkedin.com/in/khachik-zakaryan-423b03278)
+- LinkedIn - [Khachik Zakaryan](https://www.linkedin.com/in/khachik-zakaryan-423b03278/)
 - [Email](mailto:khachikzakaryan2@gmail.com)
 
 ## ⚡ My Skills
