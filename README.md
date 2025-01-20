@@ -6,14 +6,8 @@
 
 ## ⚡ My Skills
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=12&i=java,idea,bash,powershell,ubuntu,git,github,gitlab,gmail,docker,linux,py,anaconda,pycharm,r,discord,vscode,apple,aws,instagram,kubernetes,linkedin,stackoverflow" /><br/>
+    <img src="https://skillicons.dev/icons?perline=12&i=java,idea,bash,powershell,ubuntu,git,github,gitlab,gmail,docker,linux,py,anaconda,pycharm,r,discord,vscode,apple,aws,instagram,kubernetes,linkedin,stackoverflow,gcp,maven,postgres,postman,spring" /><br/>
   </a>
 </p>
-
-
-<!---
-KhachikAstoyan/KhachikAstoyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
